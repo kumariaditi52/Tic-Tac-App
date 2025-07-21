@@ -1,0 +1,87 @@
+
+
+
+3.3https://tiiny.host/manage
+4.4https://www.webintoapp.com/author/dashboard?cmd=app_download&appid=844800
+Or https://www.webintoapp.com/login
+
+
+Add More Files or Update Your Project
+🔗 https://tiiny.host/manage
+
+✅ To Add/Update Files on TiinyHost:
+Prepare Your Project Folder:
+
+Create a folder with all your files (index.html, style.css, script.js, images, etc.).
+
+Make sure index.html is the entry point.
+
+Zip the Folder:
+
+Right-click → Send to → Compressed (zipped) folder.
+
+Example: mywebsite.zip
+
+Go to TiinyHost Dashboard:
+
+Login at: https://tiiny.host/manage
+
+Upload New Zip File:
+
+Click "Upload Site"
+
+Choose the new .zip file.
+
+Give a unique subdomain (e.g., aditi-project.tiiny.site)
+
+Click "Upload & Host"
+
+Optional: If you already hosted a site and want to replace it:
+
+Delete the old one.
+
+Upload the updated one again with the same subdomain (if available).
+
+🔹 4. WebIntoApp – Update App With New Files or Site
+🔗 https://www.webintoapp.com/login
+🔗 Or directly to your dashboard: Download App Link
+
+✅ To Update App with New Files (New Website Version):
+Go to TiinyHost, upload your new project (as above).
+
+Example: https://yourname.tiiny.site
+
+Go to WebIntoApp:
+
+Login here: https://www.webintoapp.com/login
+
+On Your Dashboard:
+
+If you want to edit the existing app:
+
+Click on the app (with app ID: 844800).
+
+Update the website URL to your new one if changed.
+
+Rebuild the APK.
+
+If you want to create a new app:
+
+Click “Create App”.
+
+Paste the updated TiinyHost link.
+
+Customize icon, name, etc.
+
+Click “Build App”.
+
+Download APK:
+
+Go to: Download Link
+
+Download and test the new version.
+
+✅ Summary Table
+Platform	Action to Add Files
+TiinyHost	Zip full updated project and upload new version
+WebIntoApp	Update the hosted link or create a new app with updated link, then rebuild APK
